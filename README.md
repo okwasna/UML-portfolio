@@ -7,7 +7,7 @@ Celem tego portfolio jest **pokazanie umiejętności modelowania systemów infor
 
 ---
 
-## 📂 Zawartość folderu
+##  Zawartość folderu
 
 | Nazwa pliku | Typ diagramu | Opis |
 |--------------|---------------|------|
@@ -28,7 +28,7 @@ Celem tej sekcji portfolio jest:
 
 ---
 
-## 🧠 Użyte narzędzia
+##  Użyte narzędzia
 
 - **Enterprise Architect** – tworzenie i edycja diagramów UML  
 - **Draw.io** – szkice i diagramy pomocnicze  
