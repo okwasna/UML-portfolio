@@ -45,7 +45,7 @@ Nie tworzą one wspólnego projektu – ich celem jest pokazanie różnych aspek
 - komunikacji między aktorami (diagram sekwencji),  
 - oraz definicji funkcji systemu (diagram przypadków użycia).
 
-Dokumentacja opisująca poszczególne diagramy została przygotowana i zapisana w **Confluence**, a wybrane diagramy wyeksportowano w formacie `.png` lub `.drawio`.
+Wybrane diagramy wyeksportowano w formacie `.png` lub `.drawio`.
 
 ---
 
