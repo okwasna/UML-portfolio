@@ -15,7 +15,7 @@ Celem tego portfolio jest **pokazanie umiejętności modelowania systemów infor
 | `Diagram aktywności – Proces realizacji zamówienia.png` | Activity | Schemat aktywności w procesie obsługi zamówienia – przykład przepływu sterowania i warunków decyzyjnych. |
 | `Diagram klas – System bankowości online.png` | Class | Model klas i relacji w uproszczonym systemie bankowym – pokazuje strukturę danych i powiązania między obiektami. |
 | `Diagram sekwencji – Proces wypłaty gotówki z bankomatu.png` | Sequence | Przykład komunikacji pomiędzy aktorami (klient, bankomat, system bankowy) podczas wypłaty gotówki. |
-| `Systembank.eapx` | Projekt Enterprise Architect | Model systemu logowania użytkownika z uwierzytelnianiem dwuskładnikowym (2FA)- use case |
+| `Systembank.eapx` | Use Case | Model systemu logowania użytkownika z uwierzytelnianiem dwuskładnikowym (2FA) |
 ---
 
 ##  Cel folderu
